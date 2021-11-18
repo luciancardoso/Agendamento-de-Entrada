@@ -1,0 +1,11 @@
+{
+    "name": "lucian.santos/sistema-aduana",
+    "autoload": {
+        "psr-4": {
+            "LucianSantos\\SistemaAduana\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "6.0.*"
+    }
+}
